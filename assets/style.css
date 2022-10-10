@@ -95,7 +95,7 @@ img:hover {
 }
 
 a > i {
-    float: inline-start;
+    float: left;
     margin-left: 12px;
 }
 
