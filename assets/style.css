@@ -94,7 +94,7 @@ img:hover {
     letter-spacing: 1px;
 }
 
-.fa {
+a > i {
     float: inline-start;
     margin-left: 12px;
 }
